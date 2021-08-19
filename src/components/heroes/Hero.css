@@ -1,0 +1,35 @@
+.card {
+  width: 25rem;
+  background-color: #1d77ff;
+  margin: 1rem;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.title-agency {
+  color: #0a5486;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+span {
+  color: #0a5486;
+}
+
+.hero-screen {
+  display: flex;
+  height: 100vh;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.btn-outline-primary {
+  color: #fff;
+  background-color: #009ef7;
+}
+/* 
+interesting and interesed
+every adjective with one syllabale only use er, when the adjective use 3 syllabale use more than
+le, ow, y use er
+the rest use more  
+*/

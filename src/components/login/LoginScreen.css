@@ -1,0 +1,23 @@
+.login{
+    font-family: 'Chela One', cursive;
+    display: flex;
+    height: 100vh;
+    justify-content: flex-end;
+}
+.bg-login{
+    background-image: url("../../img/superhero.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: all 1s ease-in-out;
+}
+h1{
+    font-size:3rem;
+}
+
+.fs-6{
+    font-size: 1.5rem !important;
+}
+
+.indicator-label{
+    font-size: 1.5rem !important;
+}

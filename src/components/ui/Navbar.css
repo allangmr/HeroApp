@@ -1,0 +1,32 @@
+.bg-navbar {
+  background-color: #e32f3c;
+}
+
+.nav-link {
+  color: white;
+  font-size: 1.3rem;
+  padding-top: 1.4rem;
+  padding-bottom: 1.4rem;
+}
+.nav-link:hover {
+  background-color: #0a5486;
+  color: white;
+}
+.nav-link:focus {
+  color: white;
+}
+
+.active {
+  background-color: #0a5486;
+  color: white;
+}
+
+.navbar-brand {
+  color: white;
+  font-size: 1.6rem;
+  font-weight: bold;
+}
+
+.navbar-brand:hover {
+  color: #0a5486;
+}
